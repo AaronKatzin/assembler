@@ -1,7 +1,8 @@
 
 Situations I know my assembler can't handle:
 
-	Can't handle strings of data with spaces. I noticed this very soon before the time we had to submit the project. Unfortunately I didn't have time to fix it.
+	Can't handle strings of data with spaces. I noticed this very soon before the time we had to submit the project. 
+	Unfortunately I didn't have time to fix it.
 	
 	
 Purpose os the assembler: 
