@@ -53,7 +53,7 @@ User is notified the program is exiting.
 
 Memory is allocated for array of pointers to parameter strings
 
-Input ile is opened for reading.
+Input file is opened for reading.
 
 Loop is initiated (in separate function):
 
