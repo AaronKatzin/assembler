@@ -30,7 +30,7 @@ Data structures:
 	
 *The assembler accepts arguments via command line and accesses them through argv in the main function*.
 
-The main function includes begins with declarations.
+The main function begins with declarations.
 
 It then continues to make sure that arguments were passed to it beofre moving on.
 
