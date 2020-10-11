@@ -59,8 +59,8 @@ Loop is initiated (in separate function):
 
 	Line is read.
 	Checks if reading returned errors.
-	Checks if machine is out of memeory (starts at 0. max defined in MAX_MEM as 1023 as defined in the maman).
-	Checks if exceeded max lines (starts at 1. max defined as 100 as defined in the maman).
+	Checks if machine is out of memeory (starts at 0. max defined in MAX_MEM as 1023 as defined in the attached Hebrew instructions).
+	Checks if exceeded max lines (starts at 1. max defined as 100 as defined in the attached Hebrew instructions).
 	Checks if line is blank or comment.
 	Else:
 		If line has a label adds to label table.
