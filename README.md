@@ -16,7 +16,7 @@ All of the assembler's c files #include this header file.
 
 Overall Summary of how the assembler works:
 
-In short: it basically follows the 'two pass' method described in the maman 14 instructions.
+In short: it basically follows the 'two pass' method described in the attached Hebrew instructions ('Assembler Project Instructions (Hebrew).pdf').
 
 In depth:
 
